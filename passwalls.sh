@@ -273,5 +273,3 @@ echo -e "${GREEN} WiFi Key : 10203040 ${ENDCOLOR}"
 sleep 5
 
 rm passwalls.sh
-
-reboot
